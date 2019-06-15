@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mavenSenior_web:war">
+    <output-path>$PROJECT_DIR$/mavenSenior_web/target</output-path>
+    <root id="archive" name="mavenSenior_web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mavenSenior_web:war exploded" />
+    </root>
+  </artifact>
+</component>
